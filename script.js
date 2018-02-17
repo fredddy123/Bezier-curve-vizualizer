@@ -1,7 +1,5 @@
 (() => {
     const canvas = document.getElementById('canvas');
-    const divStateStage = document.getElementById('state_stage');
-
     const ctx = canvas.getContext('2d');
 
     ctx.font = '12px Verdana';
